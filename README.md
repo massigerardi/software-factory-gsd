@@ -377,7 +377,7 @@ pid and log go to `factory/jobs/.dashboard.pid` and `.dashboard.log`, which are
 gitignored; the log is overwritten on each start.
 
 
-![Dashboard](./Screenshot 2026-11-26 at 18.25.47.png)
+![Dashboard](./Screenshot%202026-11-26%20at%2018.25.47.png)
 
 ## Tests
 
